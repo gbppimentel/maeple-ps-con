@@ -19,13 +19,12 @@ export const inviteContent = {
     time: "7:00 PM PHT",
     note: "i know gabi pa yung concert, ...pero whole day sana tayo magkasama while WFH ka?? hmm sunduin kita sa friday morning ha",
     images: {
-      logo:
-        "https://media.db.com/images/public/user_69dfa62e7616a6620f449b28/88f63fcce_planetshakers-logo.webp",
-      bg: "https://media.db.com/images/public/6a57aacf1f415a3b5e62ba98/7458d0e66_MNL-2026-BG.png",
-      textLayer:
-        "https://media.db.com/images/public/user_69dfa62e7616a6620f449b28/94200cd6e_MNL-2026-TEXT-LAYER-e1772517980653.png",
+     logo: "/image/MNL-2026-TEXT-LAYER-e1772517980653.png",
+
+      bg: "/image/MNL-2026-BG.png",
+textLayer: "/image/MNL-2026-TEXT-LAYER-e1772517980653.png",
       seatMap:
-        "https://media.db.com/images/public/user_69dfa62e7616a6620f449b28/f03c7f58a_MANILA-Seat-Map-RestrictedView_Website-1.png",
+        "/image/MANILA-Seat-Map-RestrictedView_Website-1.webp",
     },
   },
 
@@ -68,6 +67,6 @@ export const inviteContent = {
     spotifyUrl:
       "https://open.spotify.com/playlist/7apBh6ALJKOZOH7HnSEoFf?si=cnOENYClQv-wrdEhLIVjGQ",
     spotifyLogo:
-      "https://media.db.com/images/public/6a57aacf1f415a3b5e62ba98/206e3be39_images.png",
+      "/image/images.png",
   },
 };
